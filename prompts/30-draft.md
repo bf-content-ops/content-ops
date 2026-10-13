@@ -11,6 +11,9 @@ Ziel: Der fertige Artikel nach Template und freigegebener Outline.
 
 ## Stil (abgeleitet aus unseren erfolgreichsten Artikeln)
 
+Zuerst gilt wissen/07-kein-ki-stil.md. Die folgenden Punkte ergänzen sie.
+
+
 - Jeder Abschnitt beginnt mit der Antwort, Erklärung und Beispiele folgen.
 - Empfehlungen als Bedingungssatz: "Für Unternehmen, die … brauchen, eignet sich …". Keine pauschalen Superlative wie "der beste".
 - Fachbegriffe beim ersten Vorkommen kurz erklären.
@@ -35,6 +38,6 @@ Prüfe den Text und gib das Ergebnis als Liste aus:
 - [ ] Pflichtabschnitt "So setzt BOTfriends das um" enthält ein konkretes Element aus wissen/
 - [ ] Keine erfundenen Zahlen, Kunden, Zitate (jede Zahl mit Quelle oder aus wissen/)
 - [ ] Sie-Form durchgehend
-- [ ] Keine Gedankenstriche
+- [ ] Kein KI-Stil nach wissen/07, Abschnitt 5: Anzahl Treffer für "–", "—" und " - " (muss 0 sein), Anzahl Treffer aus der Verbotsliste (muss 0 sein), auffällige Textmuster mit Fundstelle
 - [ ] Länge im Rahmen des Templates (Wortzahl angeben)
 - [ ] Alle [FEHLT]- und [PRÜFEN]-Markierungen aufgelistet
