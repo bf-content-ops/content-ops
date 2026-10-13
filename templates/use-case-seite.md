@@ -9,7 +9,7 @@ zielfragen: []
 referenz_urls: []
 ziel_url:
 meta_title:          # max. 60 Zeichen inkl. " | BOTfriends"
-meta_description:    # 120–155 Zeichen, Sie-Form, Handlungsaufforderung
+meta_description:    # 120 bis 155 Zeichen, Sie-Form, Handlungsaufforderung
 interne_links: []    # Pflicht: Branchenseite unter /loesungen/ und passende Produktseite
 custom_instructions:
 schema: [Article, FAQPage, BreadcrumbList]
@@ -33,35 +33,35 @@ TEMPLATE-REGELN
 # {prozess} automatisieren: so funktioniert es bei {branche}
 
 ## {Hauptfrage, wörtlich wie Nutzer sie stellen}
-<!-- Box "Auf einen Blick", 40–60 Wörter: was automatisierbar ist und für wen es sich lohnt, als Bedingung. -->
+<!-- Box "Auf einen Blick", 40 bis 60 Wörter: was automatisierbar ist und für wen es sich lohnt, als Bedingung. -->
 
 ## Wie läuft {prozess} heute bei {branche} ab?
-<!-- 150–250 Wörter: Ablauf, typische Engpässe, Belastung für Service-Teams. -->
+<!-- 150 bis 250 Wörter: Ablauf, typische Engpässe, Belastung für Service-Teams. -->
 
 ## Wie übernimmt ein AI Agent {prozess}?
 <!--
-5–8 nummerierte Schritte, fallabschließend:
+5 bis 8 nummerierte Schritte, fallabschließend:
 Anliegen erkennen, Authentifizierung, Daten erfassen oder prüfen, Aktion im Fachsystem, Bestätigung, Human Handover bei Sonderfällen.
 -->
 
 ## Welche Kanäle und Systeme beteiligt sind
-<!-- 100–200 Wörter, Kanäle aus "kanaele", Systeme aus "systeme". -->
+<!-- 100 bis 200 Wörter, Kanäle aus "kanaele", Systeme aus "systeme". -->
 
 ## Was die Automatisierung bringt
-<!-- 100–200 Wörter, Nutzen für Kunden und Team. Zahlen nur belegt. -->
+<!-- 100 bis 200 Wörter, Nutzen für Kunden und Team. Zahlen nur belegt. -->
 
 ## Praxisbeispiel
 <!--
-PFLICHTABSCHNITT, 100–200 Wörter.
+PFLICHTABSCHNITT, 100 bis 200 Wörter.
 Referenzkunde aus der Branche mit freigegebener Aussage aus wissen/03. Fehlt einer: [FEHLT: Referenz aus {branche}].
 -->
 
 ## Voraussetzungen und Aufwand
-<!-- 100–150 Wörter: was vorhanden sein muss, realistischer Zeitrahmen. -->
+<!-- 100 bis 150 Wörter: was vorhanden sein muss, realistischer Zeitrahmen. -->
 
 ## Häufige Fragen
 <!--
-4–6 Fragen, mindestens eine im KI-Prompt-Stil, z. B. "Wie automatisieren {branche} die {prozess}?".
+4 bis 6 Fragen, mindestens eine im KI-Prompt-Stil, z. B. "Wie automatisieren {branche} die {prozess}?".
 Format exakt beibehalten (Basis für FAQPage).
 -->
 
@@ -69,4 +69,4 @@ Format exakt beibehalten (Basis für FAQPage).
 {Antwort}
 
 ## Fazit
-<!-- 2–3 Sätze + CTA, wenn vorhanden mit Link auf "demo_url". -->
+<!-- 2 bis 3 Sätze + CTA, wenn vorhanden mit Link auf "demo_url". -->

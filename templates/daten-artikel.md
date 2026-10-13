@@ -9,7 +9,7 @@ zielfragen: []
 referenz_urls: []
 ziel_url:
 meta_title:          # max. 60 Zeichen inkl. " | BOTfriends"
-meta_description:    # 120–155 Zeichen, Sie-Form, Handlungsaufforderung
+meta_description:    # 120 bis 155 Zeichen, Sie-Form, Handlungsaufforderung
 interne_links: []
 custom_instructions:
 schema: [Article, Dataset, FAQPage, BreadcrumbList]   # Dataset nur, wenn die Daten als Tabelle offenliegen
@@ -33,31 +33,31 @@ TEMPLATE-REGELN
 # {thema} {report_jahr}: {Kernaussage in Zahlen}
 
 ## Die wichtigsten Ergebnisse
-<!-- Box mit 3–5 Zahlen, jede als vollständiger, für sich zitierbarer Satz mit Quellenangabe. -->
+<!-- Box mit 3 bis 5 Zahlen, jede als vollständiger, für sich zitierbarer Satz mit Quellenangabe. -->
 
 ## Wie die Daten erhoben wurden
-<!-- 80–150 Wörter aus "methodik": Stichprobe, Zeitraum, Vorgehen, Herausgeber. -->
+<!-- 80 bis 150 Wörter aus "methodik": Stichprobe, Zeitraum, Vorgehen, Herausgeber. -->
 
 ## {H2 je Ergebnis, als Frage oder Aussage}
 <!--
-3–5 Abschnitte à 150–250 Wörter.
+3 bis 5 Abschnitte à 150 bis 250 Wörter.
 Zahl im ersten Satz, danach Einordnung. Wo hilfreich: Tabelle oder Diagramm (Platzhalter [DIAGRAMM: …]).
 -->
 
 ## Was das für {Branche} bedeutet
-<!-- 150–250 Wörter, Handlungsempfehlungen aus den Ergebnissen. -->
+<!-- 150 bis 250 Wörter, Handlungsempfehlungen aus den Ergebnissen. -->
 
 ## Einordnung durch BOTfriends
 <!--
-100–200 Wörter. Expertenstimme nur mit freigegebenem Zitat aus wissen/. NIEMALS ein Zitat erfinden.
+100 bis 200 Wörter. Expertenstimme nur mit freigegebenem Zitat aus wissen/. NIEMALS ein Zitat erfinden.
 Fehlt eines: [FEHLT: Zitat von … zu …].
 -->
 
 ## Den vollständigen Report herunterladen
-<!-- 1–2 Sätze, was der Report zusätzlich enthält, Link auf "download_url". -->
+<!-- 1 bis 2 Sätze, was der Report zusätzlich enthält, Link auf "download_url". -->
 
 ## Häufige Fragen
-<!-- 4–6 Fragen, die die Zahlen beantworten, im KI-Prompt-Stil. Format exakt beibehalten (Basis für FAQPage). -->
+<!-- 4 bis 6 Fragen, die die Zahlen beantworten, im KI-Prompt-Stil. Format exakt beibehalten (Basis für FAQPage). -->
 
 ### {Frage 1}
 {Antwort}

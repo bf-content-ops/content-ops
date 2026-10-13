@@ -9,7 +9,7 @@ zielfragen: []
 referenz_urls: []
 ziel_url:
 meta_title:          # max. 60 Zeichen inkl. " | BOTfriends"
-meta_description:    # 120–155 Zeichen, Sie-Form, Handlungsaufforderung
+meta_description:    # 120 bis 155 Zeichen, Sie-Form, Handlungsaufforderung
 interne_links: []
 custom_instructions:
 schema: [Article, FAQPage, BreadcrumbList]
@@ -30,36 +30,36 @@ TEMPLATE-REGELN
 
 ## {Hauptfrage, wörtlich wie Nutzer sie stellen}
 <!--
-Box "Auf einen Blick", 40–70 Wörter.
+Box "Auf einen Blick", 40 bis 70 Wörter.
 Bedingte Antwort in beide Richtungen: "Für … eignet sich {option_a}, für … {option_b}."
 Wenn sinnvoll: Hinweis, dass beides kombiniert werden kann.
 -->
 
 ## Was ist ein {option_a}?
-<!-- 60–100 Wörter, interner Link. -->
+<!-- 60 bis 100 Wörter, interner Link. -->
 
 ## Was ist ein {option_b}?
-<!-- 60–100 Wörter, interner Link. -->
+<!-- 60 bis 100 Wörter, interner Link. -->
 
 ## {option_a} und {option_b} im direkten Vergleich
 <!--
-Tabelle mit 6–8 Kriterien, z. B. Kanal, typische Anliegen, Nutzererwartung, Aufwand, Kosten, Integrationen.
+Tabelle mit 6 bis 8 Kriterien, z. B. Kanal, typische Anliegen, Nutzererwartung, Aufwand, Kosten, Integrationen.
 -->
 
 ## {H2 je Unterschied, als Frage}
 <!--
-3–4 Abschnitte à 150–250 Wörter. Erster Satz beantwortet die Frage. Je ein Praxisbeispiel.
+3 bis 4 Abschnitte à 150 bis 250 Wörter. Erster Satz beantwortet die Frage. Je ein Praxisbeispiel.
 -->
 
 ## Wann eignet sich {option_a}, wann {option_b}?
-<!-- 150–250 Wörter, Szenarien nach Branche oder Anliegen. -->
+<!-- 150 bis 250 Wörter, Szenarien nach Branche oder Anliegen. -->
 
 ## Wann lohnt es sich, beides zu kombinieren?
-<!-- 100–200 Wörter, z. B. gemeinsame Wissensbasis über alle Kanäle. -->
+<!-- 100 bis 200 Wörter, z. B. gemeinsame Wissensbasis über alle Kanäle. -->
 
 ## So setzt BOTfriends das um
 <!--
-PFLICHTABSCHNITT (Information Gain), 100–200 Wörter, mit Element aus wissen/02, 03 oder 04.
+PFLICHTABSCHNITT (Information Gain), 100 bis 200 Wörter, mit Element aus wissen/02, 03 oder 04.
 Fehlt Passendes: [FEHLT: …].
 -->
 
@@ -71,7 +71,7 @@ Danach CTA.
 
 ## Häufige Fragen
 <!--
-4–6 Fragen, mindestens eine im KI-Prompt-Stil. Format exakt beibehalten (Basis für FAQPage).
+4 bis 6 Fragen, mindestens eine im KI-Prompt-Stil. Format exakt beibehalten (Basis für FAQPage).
 -->
 
 ### {Frage 1}

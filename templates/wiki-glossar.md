@@ -8,13 +8,13 @@ supporting_keywords: []
 zielfragen: []
 ziel_url:
 meta_title:          # max. 60 Zeichen inkl. " | BOTfriends"
-meta_description:    # 120–155 Zeichen, Sie-Form
+meta_description:    # 120 bis 155 Zeichen, Sie-Form
 interne_links: []    # Pflicht: passende Produktseite
 custom_instructions:
 schema: [DefinedTerm, Article, BreadcrumbList]
 # Glossar-spezifisch
 begriff:
-verwandte_begriffe: []   # 3–5 Glossar-Einträge zum Verlinken
+verwandte_begriffe: []   # 3 bis 5 Glossar-Einträge zum Verlinken
 ---
 
 <!--
@@ -30,16 +30,16 @@ TEMPLATE-REGELN
 <!-- Definition: ein Satz, höchstens 30 Wörter, beginnt mit "{begriff} ist …". -->
 
 ## Wie funktioniert {begriff}?
-<!-- 100–200 Wörter in einfachen Worten. -->
+<!-- 100 bis 200 Wörter in einfachen Worten. -->
 
 ## Beispiel aus der Praxis
-<!-- 80–150 Wörter, idealerweise aus einer Fokusbranche (Stadtwerke, Wohnungswirtschaft, ÖPNV, E-Commerce). -->
+<!-- 80 bis 150 Wörter, idealerweise aus einer Fokusbranche (Stadtwerke, Wohnungswirtschaft, ÖPNV, E-Commerce). -->
 
 ## Abgrenzung
-<!-- 60–120 Wörter: Unterschied zu verwandten oder oft verwechselten Begriffen. -->
+<!-- 60 bis 120 Wörter: Unterschied zu verwandten oder oft verwechselten Begriffen. -->
 
 ## {begriff} bei BOTfriends
-<!-- 60–120 Wörter, nur mit Angaben aus wissen/02, Link zur Produktseite. -->
+<!-- 60 bis 120 Wörter, nur mit Angaben aus wissen/02, Link zur Produktseite. -->
 
 ## Verwandte Begriffe
-<!-- Liste mit 3–5 internen Links aus "verwandte_begriffe". -->
+<!-- Liste mit 3 bis 5 internen Links aus "verwandte_begriffe". -->

@@ -9,7 +9,7 @@ zielfragen: []
 referenz_urls: []
 ziel_url:
 meta_title:          # max. 60 Zeichen, Keyword vorne, endet mit " | BOTfriends"
-meta_description:    # 120–155 Zeichen, Sie-Form, endet mit Handlungsaufforderung
+meta_description:    # 120 bis 155 Zeichen, Sie-Form, endet mit Handlungsaufforderung
 interne_links: []
 custom_instructions:
 schema: [Article, FAQPage, BreadcrumbList]

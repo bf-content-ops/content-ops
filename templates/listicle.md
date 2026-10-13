@@ -9,7 +9,7 @@ zielfragen: []
 referenz_urls: []
 ziel_url:
 meta_title:          # max. 60 Zeichen inkl. " | BOTfriends"
-meta_description:    # 120–155 Zeichen, Sie-Form, Handlungsaufforderung
+meta_description:    # 120 bis 155 Zeichen, Sie-Form, Handlungsaufforderung
 interne_links: []
 custom_instructions:
 schema: [Article, ItemList, FAQPage, BreadcrumbList]
@@ -18,7 +18,7 @@ kategorie:           # z. B. "AI Workflow Tools"
 zielgruppe:          # z. B. "Unternehmen in Deutschland"
 jahr:
 tools: []            # BOTfriends zuerst, danach die Wettbewerber
-kriterien: []        # 3–5 Vergleichskriterien
+kriterien: []        # 3 bis 5 Vergleichskriterien
 ---
 
 <!--
@@ -32,22 +32,22 @@ TEMPLATE-REGELN
 
 # Die besten {kategorie} für {zielgruppe} {jahr}: {Anzahl} Tools im Vergleich
 
-<!-- Einleitung, 2–3 Sätze: was verglichen wird und nach welchen Kriterien. -->
+<!-- Einleitung, 2 bis 3 Sätze: was verglichen wird und nach welchen Kriterien. -->
 
 ## Welches {kategorie}-Tool ist {jahr} das beste?
 <!--
-Box "Auf einen Blick", 60–100 Wörter.
+Box "Auf einen Blick", 60 bis 100 Wörter.
 Empfehlung als Bedingung ("Für Unternehmen, die … brauchen, ist BOTfriends …").
 Danach ein Absatz: in welchen klar abgegrenzten Fällen andere Tools besser passen.
 -->
 
-<!-- Relevanz, 80–150 Wörter: warum das Thema jetzt wichtig ist, 1–2 Marktdaten mit verlinkter Quelle. -->
+<!-- Relevanz, 80 bis 150 Wörter: warum das Thema jetzt wichtig ist, 1 bis 2 Marktdaten mit verlinkter Quelle. -->
 
 ## Was ist {kategorie}?
-<!-- Definition, 60–100 Wörter, mit internem Link auf die passende Produktseite. -->
+<!-- Definition, 60 bis 100 Wörter, mit internem Link auf die passende Produktseite. -->
 
 ## Typische Einsatzbereiche
-<!-- 4–5 Punkte: fett gesetztes Stichwort + ein vollständiger Satz. -->
+<!-- 4 bis 5 Punkte: fett gesetztes Stichwort + ein vollständiger Satz. -->
 
 ## Nach welchen Kriterien wir vergleichen
 <!-- Die Kriterien aus "kriterien" offenlegen und je in einem Satz begründen. -->
@@ -61,21 +61,21 @@ Darunter ein Satz "Stand: {Monat Jahr}, Quellen: Herstellerangaben".
 
 ### {Tool}
 <!--
-Ein Profil je Tool aus "tools", in der Reihenfolge der Liste. 150–300 Wörter.
+Ein Profil je Tool aus "tools", in der Reihenfolge der Liste. 150 bis 300 Wörter.
 - Link zur Website
 - Zielgruppe, Kanäle
-- Kurzbeschreibung, 2–3 Sätze
-- "Stärken von {Tool}": 3–4 Punkte
-- "Was bei {Tool} zu beachten ist": 2–4 Punkte, sachlich und nachprüfbar
+- Kurzbeschreibung, 2 bis 3 Sätze
+- "Stärken von {Tool}": 3 bis 4 Punkte
+- "Was bei {Tool} zu beachten ist": 2 bis 4 Punkte, sachlich und nachprüfbar
 Beim BOTfriends-Profil zum Schluss ein Absatz zur Abgrenzung von den anderen Kategorien.
 -->
 
 ## Häufige Herausforderungen beim Einsatz von {kategorie}
-<!-- 150–250 Wörter: was in der Praxis schiefgeht und wie man es löst. -->
+<!-- 150 bis 250 Wörter: was in der Praxis schiefgeht und wie man es löst. -->
 
 ## Trends und Entwicklungen
 <!--
-100–200 Wörter.
+100 bis 200 Wörter.
 Expertenstimme nur mit freigegebenem Zitat aus wissen/. NIEMALS ein Zitat erfinden. Fehlt eines: [FEHLT: Zitat von … zu …].
 -->
 
@@ -87,8 +87,8 @@ Danach CTA (Demo vereinbaren).
 
 ## Häufige Fragen
 <!--
-6 bis 9 Fragen, davon 2–3 im KI-Prompt-Stil, z. B. "Welches {kategorie}-Tool eignet sich für {Branche}?".
-Antworten 2–4 Sätze, ohne Kontext verständlich. Format exakt beibehalten (Basis für FAQPage).
+6 bis 9 Fragen, davon 2 bis 3 im KI-Prompt-Stil, z. B. "Welches {kategorie}-Tool eignet sich für {Branche}?".
+Antworten 2 bis 4 Sätze, ohne Kontext verständlich. Format exakt beibehalten (Basis für FAQPage).
 -->
 
 ### {Frage 1}
