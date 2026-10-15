@@ -46,4 +46,6 @@ BOTfriends X ist eine Plattform für AI Agents, die Kundenanliegen über Voice, 
 
 ## Nicht behaupten
 
+- Keine Multi-Intent-Erkennung. Richtig ist: Der Orchestrator nimmt mehrere Anliegen auf, priorisiert sie und arbeitet sie nacheinander ab; bei Bedarf geht es zurück in den Begrüßungsdialog ("Welches Anliegen sollen wir als nächstes bearbeiten?").
+
 - [PRÜFEN: Funktionen, die es nicht gibt oder nicht genannt werden sollen, z. B. On-Premise?]
