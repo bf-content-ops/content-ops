@@ -11,6 +11,8 @@ ziel_url:
 meta_title:          # max. 60 Zeichen, Keyword vorne, endet mit " | BOTfriends"
 meta_description:    # 120 bis 155 Zeichen, Sie-Form, endet mit Handlungsaufforderung
 interne_links: []
+eingehende_links: []    # 2 bis 3 bestehende Seiten, die nach Veröffentlichung hierher verlinken
+entscheidung:          # neuer Artikel / Update bestehender Seite / zusammenführen
 custom_instructions:
 schema: [Article, FAQPage, BreadcrumbList]
 ---

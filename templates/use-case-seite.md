@@ -11,6 +11,8 @@ ziel_url:
 meta_title:          # max. 60 Zeichen inkl. " | BOTfriends"
 meta_description:    # 120 bis 155 Zeichen, Sie-Form, Handlungsaufforderung
 interne_links: []    # Pflicht: Branchenseite unter /loesungen/ und passende Produktseite
+eingehende_links: []    # 2 bis 3 bestehende Seiten, die nach Veröffentlichung hierher verlinken
+entscheidung:          # neuer Artikel / Update bestehender Seite / zusammenführen
 custom_instructions:
 schema: [Article, FAQPage, BreadcrumbList]
 # Use-Case-spezifisch
