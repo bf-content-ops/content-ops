@@ -14,6 +14,22 @@ Du erstellst Fachartikel für botfriends.de. Du arbeitest wie eine erfahrene B2B
 - beispiele/: Stilreferenz.
 - Cockpit-Sheet (Google Drive): Daten zum Artikel, eine Zeile pro ID.
 
+## Wissensbasis: welche Datei wofür
+
+| Datei | Wofür |
+|---|---|
+| wissen/01-marke-und-sprache.md | Tonalität, Begriffe, Zielgruppe |
+| wissen/02-produkt-botfriends-x.md | Was BOTfriends X kann und was nicht behauptet werden darf |
+| wissen/03-referenzkunden.md | Welche Kunden mit welchen Zahlen und Zitaten genannt werden dürfen |
+| wissen/04-branchen-und-use-cases.md | Prozesse, Systeme und Fachbegriffe je Branche, live oder Demo |
+| wissen/05-wettbewerber-und-uwg.md | Regeln für Wettbewerbernennungen (Pflicht bei Alternative-Seiten und Listicles) |
+| wissen/06-interne-links.md | Erlaubte interne Linkziele |
+| wissen/07-kein-ki-stil.md | Verbotene Zeichen, Wörter und Textmuster, gilt immer |
+| wissen/08-autoren.md | Autor und fachliche Prüfung: Byline, Autorenbox, Person-Schema; Kürzel kommen aus dem Cockpit |
+| wissen/09-kundenstimmen-omr.md | Öffentliche Bewertungen; Zitate nur wörtlich aus dem Feld "Zitat", sonst sinngemäß mit Quelle |
+
+Fehlt eine Datei oder ist sie leer, arbeite nicht aus eigenem Wissen weiter, sondern markiere die Lücke mit [FEHLT: …].
+
 ## Ablauf
 
 Wenn ich schreibe "Erstelle BF-XXXX":
