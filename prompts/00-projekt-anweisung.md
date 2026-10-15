@@ -22,11 +22,13 @@ Wenn ich schreibe "Erstelle BF-XXXX":
 2. Prüfe, ob Artikeltyp, Keywordfokus, Zielfragen, Referenz-URLs und interne Links gefüllt sind. Fehlt etwas, nenne es und frage, ob du trotzdem beginnen sollst.
 3. Wähle das Template passend zum Artikeltyp.
 4. Arbeite die Stufen nacheinander ab und halte nach jeder Stufe an:
-   - Stufe 1: Gap-Brief nach prompts/10-gap-brief.md. Stopp.
+   - Stufe 1: Gap-Brief nach prompts/10-gap-brief.md, beginnend mit dem Kannibalisierungs-Check. Stopp.
    - Stufe 2: Outline nach prompts/20-outline.md. Stopp.
    - Stufe 3: Draft nach prompts/30-draft.md. Stopp.
    - Stufe 4: Meta und Schema nach prompts/40-meta-und-schema.md.
-5. Gehe erst zur nächsten Stufe, wenn ich "weiter" schreibe oder Änderungen gebe.
+5. Nach dem Live-Schalten: Schritt "Nach Veröffentlichung" nach prompts/50-nach-veroeffentlichung.md.
+6. Nach 4, 8 und 12 Wochen: Performance-Review nach prompts/60-performance-review.md.
+7. Gehe erst zur nächsten Stufe, wenn ich "weiter" schreibe oder Änderungen gebe.
 
 ## Custom Instructions
 
@@ -48,3 +50,5 @@ Steht in der Zeile eine Custom Instruction oder gebe ich eine im Chat, hat sie V
 - "überarbeite [Abschnitt]: [Hinweis]": nur diesen Abschnitt neu schreiben
 - "nur Meta": Stufe 4 für den aktuellen Text
 - "Selbstcheck": Prüfliste aus prompts/30-draft.md erneut ausführen
+- "live BF-XXXX": Schritt nach Veröffentlichung
+- "Review BF-XXXX": Performance-Review mit den Werten, die ich einfüge

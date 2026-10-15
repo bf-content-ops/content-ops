@@ -19,6 +19,9 @@ Für jede Überschrift des Templates:
 
 **FAQ**: die geplanten Fragen im Wortlaut, ohne Antworten
 
+**Eingehende Links**
+2 bis 3 bestehende Seiten auf botfriends.de, die nach Veröffentlichung auf diesen Artikel verlinken sollen. Bevorzugt Seiten mit hoher thematischer Nähe und eigener Sichtbarkeit (Produkt-, Branchen- und Vergleichsseiten). Je Seite: URL, Absatz oder Abschnitt, in dem der Link passt, und ein Ankertext-Vorschlag.
+
 **Material, das noch fehlt**
 Alle [FEHLT]-Punkte gesammelt, damit ich sie vor dem Draft liefern kann. Zum Beispiel: Referenzkunde mit Zahl, freigegebenes Zitat, Produktdetail.
 
