@@ -10,20 +10,22 @@ BOTfriends X ist eine Plattform für AI Agents, die Kundenanliegen über Voice, 
 
 ## Kanäle und Produkte
 
-- AI Voicebot, AI Chatbot, E-Mail Automation, AI Agent Plattform
-- Features: AI Workflows, AI Copilot (Ticket-Klassifizierung und Antwortvorschläge für Mitarbeitende), Knowledge Base
+- AI Voicebot, AI Chatbot, E-Mail Automation, AI Agent Plattform, Multi Agent Plattform
+- Features: AI Workflows, AI Knowledge Base
 - Eine gemeinsame Wissensbasis für alle Kanäle
 
 ## Kernfunktionen
 
-- Multi-Agent-Orchestrierung für hohe Fallabschlussquoten
-- Freie Wahl von LLM- und Voice-Provider (LLM-agnostisch) [PRÜFEN: konkrete Provider nennen?]
-- Tiefe Backend-Anbindung per API; Transaktionen wie Adressänderungen oder Buchungen direkt im Fachsystem
-- RAG: Antworten nur auf Basis geprüfter Unternehmensdaten
-- Human Handover über integriertes Live-Chat-Modul oder automatische Ticket-Erstellung
-- Hybride Dialogstruktur: feste Dialogpfade für rechtlich kritische Schritte, freie Konversation im Rest [PRÜFEN: Ist das "Hybride Intelligenz"?]
-- Privacy-Guardrails und Anonymisierungs-Layer vor dem LLM
-- Branchenspezifische Vorlagen für schnellen Start
+- Multi-Agent-Orchestrierung: Spezialisierte Agenten bearbeiten Anliegen fallabschließend, der Orchestrator priorisiert und arbeitet sie nacheinander ab.
+- LLM-agnostisch: Freie Wahl von LLM- und Voice-Provider, wechselbar ohne Neuentwicklung.
+- Tool Calling ins Fachsystem: Adressänderungen, Buchungen und Auskünfte direkt per API, inklusive Kundenauthentifizierung.
+- RAG mit geprüftem Wissen: Antworten auf Basis freigegebener Unternehmensdaten statt freier Halluzination.
+- Human Handover mit Kontext: Übergabe an Live-Chat, Contact Center oder Ticketsystem samt Gesprächszusammenfassung.
+- Hybride Intelligenz: Feste Dialogpfade für kritische Schritte, freie Konversation überall sonst.
+- DSGVO-konform by Design: Anonymisierungs-Layer und Privacy-Guardrails vor dem LLM.
+- Branchenvorlagen: Startklare Agenten für Energieversorger, Wohnungswirtschaft, ÖPNV und E-Commerce.
+- Voice und Chat aus einer Plattform
+- Advanced Analytics und Testings
 
 ## Service-Modell
 
@@ -37,15 +39,16 @@ BOTfriends X ist eine Plattform für AI Agents, die Kundenanliegen über Voice, 
 
 - DSGVO-konformes Hosting im Europäischen Wirtschaftsraum
 - Ausrichtung am EU AI Act
-- [PRÜFEN: Formulierung "100 % DSGVO-konform" weiter verwenden? Absolute Aussagen sind angreifbar.]
 
 ## Wirtschaftlichkeit
 
-- Einsatz lohnt sich meist ab ca. 1.000 Anfragen pro Monat über alle Kanäle oder bei hoher Prozesskomplexität [PRÜFEN: noch aktuell?]
+- Einsatz lohnt sich meist ab ca. 2.500 Anfragen pro Monat über alle Kanäle oder bei hoher Prozesskomplexität 
 - ROI-Rechner: botfriends.de/ai-agent-roi-berechnen/
 
 ## Nicht behaupten
 
 - Keine Multi-Intent-Erkennung. Richtig ist: Der Orchestrator nimmt mehrere Anliegen auf, priorisiert sie und arbeitet sie nacheinander ab; bei Bedarf geht es zurück in den Begrüßungsdialog ("Welches Anliegen sollen wir als nächstes bearbeiten?").
 
-- [PRÜFEN: Funktionen, die es nicht gibt oder nicht genannt werden sollen, z. B. On-Premise?]
+## Funktionen, die es nicht gibt oder nicht genannt werden sollen
+
+- On-Premise
