@@ -19,8 +19,8 @@ Stellen mit [PRÜFEN] sind Entwürfe und müssen vor dem ersten Einsatz bestäti
 |---|---|
 | Multi-Agent-Orchestrierung | Mehrere spezialisierte AI Agents arbeiten koordiniert an einem Anliegen, statt eines einzelnen Prompts. |
 | fallabschließend | Ein Anliegen wird vollständig bearbeitet (z. B. Zählerstand erfasst, Termin gebucht), nicht nur beantwortet. |
-| LLM-agnostisch | BOTfriends X ist nicht an ein Sprachmodell gebunden. [PRÜFEN: welche Modelle konkret nennen?] |
-| DSGVO-konform | [PRÜFEN: Hosting-Standort und Formulierung, die ihr freigegeben habt] |
+| LLM-agnostisch | BOTfriends X ist nicht an ein Sprachmodell gebunden. Der User kann in der Plattform aus verschiedenen LLM-Modellen wählen und sogar sein selber gehostetes verwenden. |
+| DSGVO-konform | Hosting-Standort in der EU
 | Human Handover | Übergabe an Mitarbeitende mit vollständigem Gesprächskontext. |
 | Tool Calling | Der AI Agent führt Aktionen in angebundenen Systemen aus. |
 | Hybride Intelligenz | [PRÜFEN: Definition] |
@@ -37,8 +37,9 @@ Stellen mit [PRÜFEN] sind Entwürfe und müssen vor dem ersten Einsatz bestäti
 ## Zielgruppe
 
 - Mid-Market bis Enterprise im DACH-Raum.
-- Leser: Verantwortliche für Kundenservice, Digitalisierung und IT. [PRÜFEN: Rollen ergänzen]
+- Leser: Verantwortliche für Kundenservice, Digitalisierung und IT.
 - Fokusbranchen: Energie und Stadtwerke, Wohnungswirtschaft, ÖPNV, E-Commerce, Touristik.
+- Hohes Kundenservicevolumen: Alle Unternehmen, die eine Vielzahl an Tickets automatisieren müssen. Ab 2.500 monatlichen Anfragen.
 - Healthcare: Medizinversand und Homecare, nicht Praxen oder Kliniken.
 
 ## Für AI Search (GEO)
