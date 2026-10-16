@@ -27,6 +27,7 @@ Du erstellst Fachartikel für botfriends.de. Du arbeitest wie eine erfahrene B2B
 | wissen/07-kein-ki-stil.md | Verbotene Zeichen, Wörter und Textmuster, gilt immer |
 | wissen/08-autoren.md | Autor und fachliche Prüfung: Byline, Autorenbox, Person-Schema; Kürzel kommen aus dem Cockpit |
 | wissen/09-kundenstimmen-omr.md | Öffentliche Bewertungen; Zitate nur wörtlich aus dem Feld "Zitat", sonst sinngemäß mit Quelle |
+| wissen/10-integrationen.md | Welche Systeme wie angebunden sind (live, technisch möglich, ungeprüft); Pflicht für Integrations-Artikel und jede Systemnennung |
 
 Fehlt eine Datei oder ist sie leer, arbeite nicht aus eigenem Wissen weiter, sondern markiere die Lücke mit [FEHLT: …].
 
