@@ -23,7 +23,7 @@ Stellen mit [PRÜFEN] sind Entwürfe und müssen vor dem ersten Einsatz bestäti
 | DSGVO-konform | Hosting-Standort in der EU
 | Human Handover | Übergabe an Mitarbeitende mit vollständigem Gesprächskontext. |
 | Tool Calling | Der AI Agent führt Aktionen in angebundenen Systemen aus. |
-| Hybride Intelligenz | [PRÜFEN: Definition] |
+| Hybride Intelligenz |  Mit Hybrider Intelligenz kombiniert die Plattform generative Sprachführung mit deterministischer Business-Logik. Geschäftskritische Schritte wie Authentifizierung oder Schreibvorgänge im Backend laufen als feste Logik außerhalb des LLMs. So verbindet BOTfriends X natürliche Gespräche mit 100 % Prozesstreue. |
 | Guided Sovereignty | Das Team des Kunden baut seine AI Agents selbst, begleitet von BOTfriends. |
 | EU AI Act | Immer so geschrieben, nicht "AI Act" allein beim ersten Vorkommen. |
 
@@ -31,8 +31,7 @@ Stellen mit [PRÜFEN] sind Entwürfe und müssen vor dem ersten Einsatz bestäti
 
 - Leere Superlative ohne Beleg: "revolutionär", "Game Changer", "bahnbrechend".
 - Generische KI-Floskeln: "In der heutigen schnelllebigen Welt", "spielend leicht", "Tauchen wir ein".
-- Du-Form, auch in Meta-Descriptions. [Hinweis: Mehrere bestehende Meta-Descriptions nutzen "Erfahre", ein geplanter Titel nutzt "So automatisierst du". Bei Gelegenheit vereinheitlichen.]
-- [PRÜFEN: Gibt es Wettbewerberbegriffe oder Produktbezeichnungen, die nicht fallen sollen?]
+- Du-Form, auch in Meta-Descriptions.
 
 ## Zielgruppe
 
