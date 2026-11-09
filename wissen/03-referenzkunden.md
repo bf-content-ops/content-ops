@@ -17,7 +17,7 @@ Regeln:
 | TAG Wohnen | Wohnungswirtschaft | Phonebot | nein, Kennzahlen siehe unten |
 | VBW Wohnen | Wohnungswirtschaft | Phonebot | nein |
 | Hansa Wohnen | Wohnungswirtschaft | Phonebot | nein |
-| Statera | [PRÜFEN: Branche, auf der Website als "Statera Bikes" geführt] | Phonebot | nein |
+| Statera Bikes | E-Commerce | Phonebot | nein |
 | Lascana | E-Commerce, Mode | Chatbot | nein |
 | Frankonia | E-Commerce, Handel | Chatbot | nein |
 | Geria+med | Healthcare, Homecare | Phonebot | nein |
